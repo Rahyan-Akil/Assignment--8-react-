@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5P6BlxMWmU1eQZB15TdzOvIPN6q7U5OAPRA&usqp=CAU",
+      "name": "Dumbbell",
+      "time": 30
+    },
+    {
+        "id": 2,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6CYVGjwQQVuDQONKhBU6MXqBrJbFerBOvng&usqp=CAU",
+        "name": "Barbell",
+        "time": 20
+    },
+    {
+        "id": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfD22MjXERe635vMICE7rxBsGOczzQvEFHnQ&usqp=CAU",
+        "name": "Roping ",
+        "time": 10
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2LnWkZiuAcgTSsvu7Z-Gqd8uPTMo5aEH6A&usqp=CAU",
+        "name": "Treadmill",
+        "time": 15
+    },
+    {
+        "id": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXlFqJ07nse8DMHWyBtrFEzcD05nMPOTh2g&usqp=CAU",
+        "name": "Push-Up",
+        "time": 25
+    },
+    {
+        "id": 6,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspx1g_moR5hjBRhvwENWTuI00ti0Z2Z570Q&usqp=CAU",
+        "name": "Bench press",
+        "time": 40
+    },
+    {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxt0cKH5pF0g6PXZc_6_0xo6Cjrt1YuoGWA&usqp=CAU",
+        "name": "Pull-Up",
+        "time": 30
+    },
+    {
+        "id": 8,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiPEOTwOKyQ31SXzwaJ1k95Hzxleb3z-gcOw&usqp=CAU",
+        "name": "Plank",
+        "time": 45
+    },
+    {
+        "id": 9,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacPtAi7MTOUWf5xaLVgwTiX-qrVQmeyzRpw&usqp=CAU",
+        "name": "Lunge",
+        "time": 50
+    }
+]
